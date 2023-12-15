@@ -30,7 +30,23 @@ const Home = () => {
         </p>
         {/* images */}
       </section>
-      <section></section>
+      <section>
+        <h2>Stunning Projects</h2>
+        {/* images */}
+        <h3>Experience the Difference</h3>
+        <p>Discover our exceptional projects that showcase our craftsmanship and attention to detail.</p>
+
+        <h3>Quality Work</h3>
+        <p>Explore our portfolio of high-quality projects that have transformed outdoor spaces.</p>
+
+        {/* images */}
+        <h3>Creative Solutions</h3>
+        <p>Get inspired by our successful projects and envision the possibilities for your own home.</p>
+
+        <h3>Customer Satisfaction</h3>
+        <p>See how our satisfied customers have benefited from our professional remodeling services.</p>
+      </section>
+      {/* CTA */}
     </main>
   )
 }
